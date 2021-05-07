@@ -1,4 +1,4 @@
-### Hi there, I'm Xindi 👋
+## Hi there, I'm Xindi 👋
 
 I enjoy designing and implementing full-stack features with complex functionalities at Pingboard. 
 
@@ -16,7 +16,8 @@ I enjoy designing and implementing full-stack features with complex functionalit
 <img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<br /><br />
+<br /><br /><br />
+
 
 ### GitHub Stats 🌟 
 <center>
@@ -34,7 +35,9 @@ I enjoy designing and implementing full-stack features with complex functionalit
 <br />
 
 ### Let's Connect 🤝
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Portfolio" src="https://img.shields.io/badge/website-c499a1.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white" />][portfolio]
 <br />
 
 [linkedin]: https://www.linkedin.com/in/xindi-xu/
+[portfolio]: https://xindixu.space/
