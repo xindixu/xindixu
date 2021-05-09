@@ -1,4 +1,4 @@
-## Hi there, I'm Xindi 👋
+## Hi there / 哈喽 / ようこそ, I'm Xindi / 欣笛 👋
 
 I enjoy designing and implementing full-stack features with complex functionalities at Pingboard. 
 
