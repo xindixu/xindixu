@@ -1,6 +1,6 @@
 ## Hi there / 哈喽 / ようこそ, I'm Xindi / 欣笛 👋
 
-I enjoy designing and implementing full-stack features with complex functionalities at Pingboard. 
+I enjoy designing and implementing full-stack features with complex functionalities.
 
 - I'm passionate about improving user experience and understanding technologies on a deeper level 🤩 
 - I'm building web apps, using JavaScript, React, and Vue, but also curious on other applications of CS ⚡️ 
@@ -31,7 +31,7 @@ I enjoy designing and implementing full-stack features with complex functionalit
           <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xindixu&layout=compact&langs_count=10&hide=html,css,scilab&exclude_repo=xindixu.space-v1" />
         </td>
         <td>
-             <img height="300px" align="left" alt="Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=97f9ab5a-f461-4518-9875-87cc25885a8c&layout=compact" />
+           <img height="300px" align="left" alt="Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=97f9ab5a-f461-4518-9875-87cc25885a8c&layout=compact" />
         </td>
    </tr>   
   </table>
