@@ -38,7 +38,7 @@ I enjoy designing and implementing full-stack features with complex functionalit
 </center>
 <br />
 
-### Let's Connect 🤝
+### Let's Connect 🙌
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Portfolio" src="https://img.shields.io/badge/website-c499a1.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white" />][portfolio]
 <br />
