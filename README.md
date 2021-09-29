@@ -28,7 +28,7 @@ I enjoy designing and implementing full-stack features with complex functionalit
   <table>
     <tr>
         <td>
-          <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xindixu&layout=compact&langs_count=10&hide=html,css,scilab&exclude_repo=xindixu.space-v1" />
+          <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xindixu&layout=compact&langs_count=10&hide=html,css,scilab,scss&exclude_repo=xindixu.space-v1" />
         </td>
         <td>
            <img height="300px" align="left" alt="Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=97f9ab5a-f461-4518-9875-87cc25885a8c&layout=compact" />
