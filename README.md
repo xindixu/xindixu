@@ -4,7 +4,7 @@ I enjoy designing and implementing full-stack features with complex functionalit
 
 - I'm passionate about improving user experience and understanding technologies on a deeper level 🤩 
 - I'm building web apps, using JavaScript, React, and Vue, but also curious on other applications of CS ⚡️ 
-- I'm currently taking online courses such as Algorithms and Operating System 🌱
+- I'm currently taking courses in Algorithms, Programming Languages and Translators, Engineering SaaS, and AI 🌱
 - I'm looking for more opportunities to participate in Open Source projects 👯
 <br /><br />
 
