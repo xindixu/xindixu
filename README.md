@@ -1,6 +1,7 @@
 ## Hi there / 哈喽 / ようこそ, I'm Xindi / 欣笛 👋
+I'm a first year master student at Columbia University, studying Computer Science, on the Software Systems track.
 
-I enjoy designing and implementing full-stack features with complex functionalities. I'm a first year master student at Columbia University, studying Computer Science, on the Software Systems track.
+I enjoy designing and implementing full-stack features with complex functionalities. 
 
 - I'm passionate about improving user experience and understanding technologies on a deeper level 🤩 
 - I'm building web apps, using JavaScript, React, and Vue, but also curious on other applications of CS ⚡️ 
