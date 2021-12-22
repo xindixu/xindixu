@@ -27,15 +27,19 @@ I enjoy designing and implementing full-stack features with complex functionalit
 
 ### GitHub Stats 🌟 
 <center>
-  <table>
+  <table border="0">
     <tr>
         <td>
-          <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats-xindixu.vercel.app/api/top-langs/?username=xindixu&count-private=true&layout=compact&langs_count=10&hide=html,css,scilab,scss&exclude_repo=xindixu.space-v1" />
+          <a href="https://github.com/xindixu/github-readme-stats">
+          <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats-xindixu.vercel.app/api/top-langs/?username=xindixu&count-private=true&layout=compact&langs_count=10&hide=html,css,scilab,scss&exclude_repo=xindixu.space-v1&hide_border=true" />
+          </a>
         </td>
         <td>
-           <img height="300px" align="left" alt="Wakatime stats" src="https://github-readme-stats-xindixu.vercel.app/api/wakatime?username=97f9ab5a-f461-4518-9875-87cc25885a8c&layout=compact" />
+          <a href="https://github.com/xindixu/github-readme-stats">
+           <img height="300px" align="left" alt="Wakatime stats" src="https://github-readme-stats-xindixu.vercel.app/api/wakatime?username=97f9ab5a-f461-4518-9875-87cc25885a8c&layout=compact&hide_border=true" />
+          </a>
         </td>
-   </tr>   
+   </tr>
   </table>
 </center>
 <br />
