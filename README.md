@@ -1,5 +1,5 @@
-## Hi there / 哈喽 / ようこそ, I'm Xindi / 欣笛 👋
-I'm a first year master student at Columbia University, studying Computer Science, on the Software Systems track.
+## Hi there! / 哈喽 / ようこそ, I'm Xindi / 欣笛 👋
+I'm a first year MSCS student at Columbia University. <img width="20px" alt="columbia" src="./assets/columbia-icon.png" />
 
 I enjoy designing and implementing full-stack features with complex functionalities. 
 
@@ -27,7 +27,7 @@ I enjoy designing and implementing full-stack features with complex functionalit
 
 ### GitHub Stats 🌟 
 <center>
-  <table border="0">
+  <table>
     <tr>
         <td>
           <a href="https://github.com/xindixu/github-readme-stats">
