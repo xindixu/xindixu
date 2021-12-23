@@ -1,12 +1,11 @@
 ## Hi there! / 哈喽 / ようこそ, I'm Xindi / 欣笛 👋
-I'm a first year MSCS student at Columbia University. <img width="20px" alt="columbia" src="./assets/columbia-icon.png" />
 
-I enjoy designing and implementing full-stack features with complex functionalities. 
+I enjoy designing and implementing full-stack features with complex functionalities. I'm a first year MSCS student at Columbia University. <img width="20px" alt="columbia" src="./assets/columbia-icon.png" />
 
-- I'm passionate about improving user experience and understanding technologies on a deeper level 🤩 
-- I'm building web apps, using JavaScript, React, and Vue, but also curious on other applications of CS ⚡️ 
-- I'm currently taking courses in Algorithms, Programming Languages and Translators, Engineering SaaS, and Intro to AI 🌱
-- I'm looking for more opportunities to participate in Open Source projects 👯
+- 🤩 I'm passionate about improving user experience and understanding technologies on a deeper level 
+- ⚡️ I'm building web apps with React, TypesScript, Ruby on Rails, Python Flask
+- 🌱 I'm currently taking courses in Algorithms, Programming Languages and Translators, and AI
+- 👯 I'm looking for more opportunities to participate in Open Source projects 
 <br /><br />
 
 ### Technology Stack 👩‍💻 
