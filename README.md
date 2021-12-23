@@ -1,6 +1,6 @@
 ## Hi, I'm Xindi / 欣笛 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E2B4BD&size=24&vCenter=true&height=30&lines=Works+full+stack;Always+learning+;Loves+open+source+)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E2B4BD&size=24&vCenter=true&height=30&lines=Works+full+stack;Always+learning+;Loves+open+source+)
 
 I enjoy designing and implementing full-stack features with complex functionalities. Currently a first year MSCS student at Columbia University. <img width="20px" alt="columbia" src="./assets/columbia-icon.png" />
 
