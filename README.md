@@ -6,7 +6,7 @@ I enjoy designing and implementing full-stack features with complex functionalit
 
 - 🤩 I'm passionate about **improving user experience** and **understanding technologies on a deeper level**
 - ⚡️ I'm building web apps with **React**, **Ruby on Rails**, and **Python Flask**
-- 🌱 I'm currently taking courses in **Algorithms**, **Compiler Design**, and **AI**
+- 🌱 I'm currently taking courses in **Operating Systems**, **Distributed Systems**, and **Databases**
 - 👩‍🏫 I'm learning **TypeScript**, **C/C++**, and **Go**
 <br /><br />
 
@@ -19,9 +19,11 @@ I enjoy designing and implementing full-stack features with complex functionalit
 <img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://media-exp1.licdn.com/dms/image/C560BAQGC029P7UbAMQ/company-logo_200_200/0/1562088387077?e=2159024400&v=beta&t=lEY4Obku1xJ3BB_BpN3Np9ILy8_zaB1_yjsfH9A57qs" />
 <img align="left" alt="Ruby on Rails" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
+<img align="left" alt="Flask" width="30px" src="https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ820e8Dht7tVEIuyFidEMEOEvrhtyKgBk4vohGR99ReLBsvgh06o_DYkTnEvUa3mXGB34&usqp=CAU" />
-<img align="left" alt="Flutter" width="30px" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" />
+<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+<img align="left" alt="Go" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 
 <br /><br /><br />
 
