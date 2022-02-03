@@ -6,8 +6,8 @@ I enjoy designing and implementing full-stack features with complex functionalit
 
 - 🤩 I'm passionate about **improving user experience** and **understanding technologies on a deeper level**
 - ⚡️ I'm building web apps with **React**, **Ruby on Rails**, and **Python Flask**
-- 🌱 I'm currently taking courses in **Operating Systems**, **Distributed Systems**, and **Databases**
-- 👩‍🏫 I'm learning **TypeScript**, **C/C++**, and **Go**
+- 🌱 I'm currently taking courses in **Operating Systems**, **Distributed Systems**, **Cloud Computing**, and **Databases**
+- 👩‍🏫 I'm coding in **TypeScript**, **C/C++**, and **Go** recently
 <br /><br />
 
 ### Technology Stack 👩‍💻 
