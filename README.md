@@ -7,10 +7,10 @@ I enjoy designing and implementing full-stack features with complex functionalit
 - 🤩 I'm passionate about **improving user experience** and **understanding technologies on a deeper level**
 - ⚡️ I'm building web apps with **React**, **Ruby on Rails**, and **Python Flask**
 - 🌱 I'm currently taking courses in **Operating Systems**, **Distributed Systems**, **Cloud Computing**, and **Databases**
-- 👩‍🏫 I'm coding in **C/C++**, **Go**, and **TypeScript** recently
+- 👩‍💻 I'm coding in **C/C++**, **Go**, and **TypeScript** recently
 <br /><br />
 
-### Technology Stack 👩‍💻 
+### Technology Stack ☁️
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
