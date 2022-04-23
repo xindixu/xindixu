@@ -21,13 +21,13 @@ I enjoy designing and implementing full-stack features with complex functionalit
 <img align="left" alt="Ruby on Rails" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 <img align="left" alt="Flask" width="30px" src="https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Go" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+<img align="left" alt="Amazon Web Services" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ820e8Dht7tVEIuyFidEMEOEvrhtyKgBk4vohGR99ReLBsvgh06o_DYkTnEvUa3mXGB34&usqp=CAU" />
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<img align="left" alt="Go" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+<br /><br />
 
-<br /><br /><br />
-
-
+<br /><br /> 
 ### GitHub Stats 🌟 
 <center>
   <table>
