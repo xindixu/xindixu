@@ -34,7 +34,7 @@ I enjoy designing and implementing full-stack features with complex functionalit
     <tr>
         <td>
           <a href="https://github.com/xindixu/github-readme-stats">
-          <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats-xindixu.vercel.app/api/top-langs/?username=xindixu&count-private=true&layout=compact&langs_count=10&hide=hack,assembly,html,makefile,css,scilab,scss&exclude_repo=xindixu.space-v1,operating-systems-hw4-system-calls&hide_border=true" />
+          <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats-xindixu.vercel.app/api/top-langs/?username=xindixu&count-private=true&layout=compact&langs_count=10&hide=hack,assembly,html,makefile,css,scilab,scss&exclude_repo=xindixu.space-v1,operating-systems-hw4-system-calls,operating-systems-hw6-scheduler,operating-systems-hw7-memory&hide_border=true" />
           </a>
         </td>
         <td>
