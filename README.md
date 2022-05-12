@@ -25,9 +25,9 @@ I enjoy designing and implementing full-stack features with complex functionalit
 <img align="left" alt="Amazon Web Services" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ820e8Dht7tVEIuyFidEMEOEvrhtyKgBk4vohGR99ReLBsvgh06o_DYkTnEvUa3mXGB34&usqp=CAU" />
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+<img width="1000px" />
+<br />
 
-
-<br /><br /> 
 ### GitHub Stats 🌟 
 <center>
   <table>
