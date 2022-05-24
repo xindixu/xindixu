@@ -2,7 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E2B4BD&size=24&vCenter=true&height=30&lines=Works+full+stack;Always+learning+;Loves+open+source+)
 
-I enjoy designing and implementing full-stack features with complex functionalities. Recently I get drawn into systems and cloud. Currently a first year MSCS student at Columbia University. <img width="20px" alt="columbia" src="./assets/columbia-icon.png" />
+I enjoy designing and implementing full-stack features with complex functionalities. Recently I get drawn into systems and cloud.
+
+MSCS student @ Columbia University <img height="20px" alt="columbia" src="./assets/columbia-icon.png" /> | Software Engineer Intern @ Instabase <image height="20px" alt="instabase" src="https://avatars.githubusercontent.com/u/11454371?s=200&v=4" /> | Cat mom 😻
+
 
 - 🤩 I'm passionate about **improving user experience** and **understanding technologies on a deeper level**
 - ⚡️ I'm building web apps with **React**, **Ruby on Rails**, and **Python Flask**
