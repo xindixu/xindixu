@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E2B4BD&size=24&vCenter=true&height=30&lines=Works+full+stack;Always+learning+;Loves+open+source+)
 
-MSCS student @ Columbia University <img height="20px" alt="columbia" src="./assets/columbia-icon.png" /> | Software Engineer Intern @ Instabase <image height="20px" alt="instabase" src="https://avatars.githubusercontent.com/u/11454371?s=200&v=4" /> | Cat mom 😻
+MSCS student @ Columbia University <img height="20px" alt="columbia" src="./assets/columbia-icon.png" /> | Software Engineer Intern @ Instabase <image height="24px" alt="instabase" src="https://avatars.githubusercontent.com/u/11454371?s=200&v=4" /> | Cat mom 😻
 
 I enjoy designing and implementing full-stack features with complex functionalities. Recently I get drawn into systems and cloud.
 
