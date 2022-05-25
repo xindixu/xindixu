@@ -7,7 +7,7 @@ MSCS student @ Columbia University <img height="20px" alt="columbia" src="./asse
 I enjoy designing and implementing full-stack features with complex functionalities. Recently I get drawn into systems and cloud.
 
 - 🤩 I'm passionate about **improving user experience** and **understanding technologies on a deeper level**
-- ⚡️ I'm building web apps with **React**, **Ruby on Rails**, and **Python Flask**
+- ⚡️ I'm building web apps with **React**, **Next.js**, **Python Flask**, and **AWS**
 - 🌱 I'm currently taking courses in **Operating Systems**, **Distributed Systems**, **Cloud Computing**, and **Databases**
 - 👩‍💻 I'm coding in **C/C++**, **Go**, **Python**, and **JavaScript/TypeScript** recently
 <br /><br />
