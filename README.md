@@ -8,8 +8,8 @@ I enjoy designing and implementing full-stack features with complex functionalit
 
 - 🤩 I'm passionate about **improving user experience** and **understanding technologies on a deeper level**
 - ⚡️ I'm building web apps with **React**, **Next.js**, **Python Flask**, and **AWS**
-- 🌱 I'm currently taking courses in **Operating Systems**, **Distributed Systems**, **Cloud Computing**, and **Databases**
-- 👩‍💻 I'm coding in **C/C++**, **Go**, **Python**, and **JavaScript/TypeScript** recently
+- 🌱 I'm currently learning **Distributed Systems**, **Cloud Computing**, and **Computer Networks**
+- 👩‍💻 I'm coding in **Go**, **Python**, and **JavaScript/TypeScript** recently
 <br /><br />
 
 ### Technology Stack ☁️
