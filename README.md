@@ -4,7 +4,7 @@
 
 MSCS student @ Columbia University <img height="20px" alt="columbia" src="./assets/columbia-icon.png" /> | Software Engineer Intern @ Instabase <image height="24px" alt="instabase" src="https://avatars.githubusercontent.com/u/11454371?s=200&v=4" /> | Cat lady 😻
 
-I enjoy designing and implementing full-stack features with complex functionalities. Recently I get drawn into systems and cloud.
+I enjoy designing and implementing full-stack features with complex functionalities. Recently, I got drawn into systems and cloud.
 
 - 🤩 I'm passionate about **improving user experience** and **understanding technologies on a deeper level**
 - ⚡️ I'm building web apps with **React**, **Next.js**, **Python Flask**, and **AWS**
