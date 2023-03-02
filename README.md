@@ -2,52 +2,33 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E2B4BD&size=24&vCenter=true&height=30&lines=Works+full+stack;Always+learning+;Loves+open+source+)
 
-Software Engineer @ Instabase <image height="24px" alt="instabase" src="https://avatars.githubusercontent.com/u/11454371?s=200&v=4" /> | MSCS @ Columbia University <img height="20px" alt="columbia" src="./assets/columbia-icon.png" /> | Cat lady 😻
+Software Engineer @ Instabase <image height="24px" alt="instabase" src="https://avatars.githubusercontent.com/u/11454371?s=200&v=4" /> | MSCS @ Columbia University <img height="20px" alt="columbia" src="./assets/columbia-icon.png" /> | Cat person 😻
 
 I enjoy designing and implementing full-stack features with complex functionalities. Recently, I got drawn into systems and cloud.
 
 - 🤩 I'm passionate about **improving user experience** and **understanding technologies on a deeper level**
 - ⚡️ I'm building web apps with **React**, **Next.js**, **Python Flask**, and **AWS**
 - 🌱 I'm currently learning **Distributed Systems**, **Cloud Computing**, and **Computer Networks**
-- 👩‍💻 I'm coding in **Go**, **Python**, and **JavaScript/TypeScript** recently
+- 👩‍💻 I'm coding in **JavaScript/TypeScript**, **Python**, and **Go** recently
 <br /><br />
 
 ### Technology Stack ☁️
 <img align="left" alt="JavaScript" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Vue" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<!-- <img align="left" alt="Vue" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> -->
 <img align="left" alt="GraphQL" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
 <img align="left" alt="Amazon Web Services" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="Flask" width="30px" height="30px" src="https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" />
 <img align="left" alt="Node.js" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Ruby on Rails" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
+<!-- <img align="left" alt="Ruby on Rails" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" /> -->
 <img align="left" alt="Python" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Go" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-<img align="left" alt="Java" width="30px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ820e8Dht7tVEIuyFidEMEOEvrhtyKgBk4vohGR99ReLBsvgh06o_DYkTnEvUa3mXGB34&usqp=CAU" />
-<img align="left" alt="C" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+<!-- <img align="left" alt="Java" width="30px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ820e8Dht7tVEIuyFidEMEOEvrhtyKgBk4vohGR99ReLBsvgh06o_DYkTnEvUa3mXGB34&usqp=CAU" /> -->
+<!-- <img align="left" alt="C" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /> -->
 <img align="left" alt="Postgresql" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="30px" height="30px" src="https://media-exp1.licdn.com/dms/image/C560BAQGC029P7UbAMQ/company-logo_200_200/0/1562088387077?e=2159024400&v=beta&t=lEY4Obku1xJ3BB_BpN3Np9ILy8_zaB1_yjsfH9A57qs" />
 <img height="30px" />
-<br />
-
-### GitHub Stats 🌟 
-<center>
-  <table>
-    <tr>
-        <td width="50%">
-          <a href="https://github.com/xindixu/github-readme-stats">
-          <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats-xindixu.vercel.app/api/top-langs/?username=xindixu&count-private=true&layout=compact&langs_count=10&hide=hack,assembly,html,makefile,css,scss,scilab&exclude_repo=ostep-homework,xindixu.space-v1,github-readme-stats&hide_border=true" />
-          </a>
-        </td>
-        <td width="50%">
-          <a href="https://github.com/xindixu/github-readme-stats">
-           <img height="300px" align="left" alt="Wakatime stats" src="https://github-readme-stats-xindixu.vercel.app/api/wakatime?username=97f9ab5a-f461-4518-9875-87cc25885a8c&layout=compact&hide_border=true" />
-          </a>
-        </td>
-   </tr>
-  </table>
-</center>
 <br />
 
 ### Let's Connect 🙌
@@ -57,3 +38,29 @@ I enjoy designing and implementing full-stack features with complex functionalit
 
 [linkedin]: https://www.linkedin.com/in/xindi-xu/
 [portfolio]: https://xindixu.space/
+<br />
+
+### GitHub Stats 🌟
+<details>
+  <summary>:eyes:</summary>
+
+  <center>
+    <table>
+      <tr>
+          <td width="50%">
+            <a href="https://github.com/xindixu/github-readme-stats">
+            <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats-xindixu.vercel.app/api/top-langs/?username=xindixu&count-private=true&layout=compact&langs_count=10&hide=hack,assembly,html,makefile,css,scss,scilab&exclude_repo=ostep-homework,xindixu.space-v1,github-readme-stats&hide_border=true" />
+            </a>
+          </td>
+          <td width="50%">
+            <a href="https://github.com/xindixu/github-readme-stats">
+             <img height="300px" align="left" alt="Wakatime stats" src="https://github-readme-stats-xindixu.vercel.app/api/wakatime?username=97f9ab5a-f461-4518-9875-87cc25885a8c&layout=compact&hide_border=true" />
+            </a>
+          </td>
+     </tr>
+    </table>
+  </center>
+</details>
+<br />
+
+
