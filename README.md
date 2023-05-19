@@ -1,6 +1,6 @@
 ## Hi, I'm Xindi / 欣笛 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E2B4BD&size=24&vCenter=true&height=30&lines=Works+full+stack;Always+learning+;Loves+open+source+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=6000&pause=1000&color=E2B4BDBD&width=435&lines=Make+it+work%2C+make+it+right%2C+make+it+fast.;Solve+the+problem%2C+then%2C+write+the+code.;Fast%2C+good%2C+cheap%3A+pick+any+two.)
 
 Software Engineer @ Instabase <image height="24px" alt="instabase" src="https://avatars.githubusercontent.com/u/11454371?s=200&v=4" /> | MSCS @ Columbia University <img height="20px" alt="columbia" src="./assets/columbia-icon.png" /> | Cat person 😻
 
