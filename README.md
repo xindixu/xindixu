@@ -41,26 +41,23 @@ I enjoy designing and implementing full-stack features with complex functionalit
 <br />
 
 ### GitHub Stats 🌟
-<details>
-  <summary>:eyes:</summary>
 
-  <center>
-    <table>
-      <tr>
-          <td width="50%">
-            <a href="https://github.com/xindixu/github-readme-stats">
-            <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats-xindixu.vercel.app/api/top-langs/?username=xindixu&count-private=true&layout=compact&langs_count=10&hide=hack,assembly,html,makefile,css,scss,scilab&exclude_repo=ostep-homework,xindixu.space-v1,github-readme-stats&hide_border=true" />
-            </a>
-          </td>
-          <td width="50%">
-            <a href="https://github.com/xindixu/github-readme-stats">
-             <img height="300px" align="left" alt="Wakatime stats" src="https://github-readme-stats-xindixu.vercel.app/api/wakatime?username=97f9ab5a-f461-4518-9875-87cc25885a8c&layout=compact&hide_border=true" />
-            </a>
-          </td>
-     </tr>
-    </table>
-  </center>
-</details>
+<center>
+  <table>
+    <tr>
+        <td width="50%">
+          <a href="https://github.com/xindixu/github-readme-stats">
+          <img height="300px" align="left" alt="Top Langs" src="https://github-readme-stats-xindixu.vercel.app/api/top-langs/?username=xindixu&count-private=true&layout=compact&langs_count=10&hide=hack,assembly,html,makefile,css,scss,scilab&exclude_repo=ostep-homework,xindixu.space-v1,github-readme-stats&hide_border=true" />
+          </a>
+        </td>
+        <td width="50%">
+          <a href="https://github.com/xindixu/github-readme-stats">
+           <img height="300px" align="left" alt="Wakatime stats" src="https://github-readme-stats-xindixu.vercel.app/api/wakatime?username=xindixu&layout=compact&hide_border=true" />
+          </a>
+        </td>
+   </tr>
+  </table>
+
 <br />
 
 
